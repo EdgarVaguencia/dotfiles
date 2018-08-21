@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Project build
+dist/
+build/
+
+# logs
+*.log
+
+## Al uso con typeScript
+# JS files
+*.js
+!gulpfile.js

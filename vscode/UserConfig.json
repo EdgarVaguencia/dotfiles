@@ -1,0 +1,16 @@
+{
+  "vsicons.projectDetection.autoReload": true,
+  "workbench.iconTheme": "vscode-icons",
+  "terminal.integrated.shell.windows": "?:\\Git\\bin\\sh.exe",
+  "window.menuBarVisibility": "toggle",
+  "window.zoomLevel": 0,
+  "editor.wordWrap": "on",
+  "editor.renderWhitespace": "boundary",
+  "vsicons.dontShowNewVersionMessage": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.letterSpacing": 0,
+  "breadcrumbs.enabled": true,
+  "editor.tabSize": 2
+}
