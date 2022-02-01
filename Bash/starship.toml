@@ -26,3 +26,8 @@ deleted = "🗑"
 
 [nodejs]
 format = "via [🤖 $version](bold green) "
+
+[battery]
+full_symbol = "🔋 "
+charging_symbol = "⚡️ "
+discharging_symbol = "💀 "
