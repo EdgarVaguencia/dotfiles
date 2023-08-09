@@ -11,3 +11,9 @@ Recursos varios a manera de *Tuning* para tener una mejor experiencia frente al 
 ### Linux
 
 [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
+
+## Software
+
+### Windows
+
+[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)
