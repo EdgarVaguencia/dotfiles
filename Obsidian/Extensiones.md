@@ -9,3 +9,6 @@
 ## Extras
 - [Jira Issue](obsidian://show-plugin?id=obsidian-jira-issue)
 - [Confluence Integration](obsidian://show-plugin?id=confluence-integration)
+
+## Theme
+- [Primary](https://github.com/primary-theme/obsidian)
